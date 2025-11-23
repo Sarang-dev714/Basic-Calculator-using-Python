@@ -8,4 +8,4 @@ A simple command-line calculator that supports:
 ## How to run
 
 1. Make sure you have Python 3 installed.
-2. From the project folder run:
+2. From the .py folder run:
